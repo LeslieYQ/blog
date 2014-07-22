@@ -1,39 +1,30 @@
-date: 2014-07-07 22:55:05.069
-argv: node /usr/local/bin/hexo server
-os: Darwin 13.0.0 darwin x64
-version:
-  hexo: 2.4.5
-  http_parser: 1.0
+date: "2014-07-22 16:11:06.292"
+argv: "node C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\hexo\\bin\\hexo server"
+os: Windows_NT 6.1.7601 win32 x64
+versions:
+  http_parser: "1.0"
   node: 0.10.26
   v8: 3.14.5.9
   ares: 1.9.0-DEV
   uv: 0.10.25
   zlib: 1.2.3
-  modules: 11
+  modules: "11"
   openssl: 1.0.1e
+  hexo: 2.8.0
 ---
-
-[debug] 22:55:04.928 Configuration file load successfully
-[debug] 22:55:04.930 Version info checked successfully
-[debug] 22:55:04.954 Loading database.
-[debug] 22:55:04.981 Script load successfully: fancybox.js
-[debug] 22:55:05.003 Theme layout loaded
-[debug] 22:55:05.016 Theme configuration loaded
-[debug] 22:55:05.033 Theme source loaded
-[debug] 22:55:05.037 Theme language files loaded
-[debug] 22:55:05.062 Processed: _posts/javascript若干问题.md
-[error] 22:55:05.063 { rawMessage: 'Unable to parse.',
-  parsedLine: 3,
-  snippet: 'tags:jquery plugin',
-  parsedFile: null,
-  message: 'Unable to parse.',
+[debug] 16:11:05.995 Config file loaded from D:\blog_hexo\blog\_config.yml[debug] 16:11:05.997 Version info checked successfully[debug] 16:11:06.022 Loading database.[debug] 16:11:06.064 Processed: draft.md (1ms)[debug] 16:11:06.065 Processed: page.md (1ms)[debug] 16:11:06.065 Processed: photo.md (1ms)[debug] 16:11:06.065 Processed: post.md (1ms)[debug] 16:11:06.079 Plugin loaded successfully: hexo-renderer-ejs[debug] 16:11:06.092 Plugin loaded successfully: hexo-renderer-marked[debug] 16:11:06.239 Plugin loaded successfully: hexo-renderer-stylus[debug] 16:11:06.241 Script load successfully: fancybox.js[debug] 16:11:06.254 Processed: _posts/hello-world.md (3ms)[debug] 16:11:06.270 Processed: source/img/author.jpg (0ms)[debug] 16:11:06.270 Processed: source/img/favicon.ico (0ms)[debug] 16:11:06.270 Processed: source/img/logo.svg (0ms)[debug] 16:11:06.270 Processed: source/img/pacman.jpg (0ms)[debug] 16:11:06.270 Processed: source/img/yuqiu.png (0ms)[debug] 16:11:06.271 Processed: source/js/jquery-2.0.3.min.js (1ms)[debug] 16:11:06.271 Processed: source/font/FontAwesome.otf (0ms)[debug] 16:11:06.271 Processed: source/font/coveredbyyourgrace-webfont.eot (0ms)[debug] 16:11:06.271 Processed: source/font/coveredbyyourgrace-webfont.svg (0ms)[debug] 16:11:06.271 Processed: source/font/coveredbyyourgrace-webfont.ttf (0ms)[debug] 16:11:06.271 Processed: source/font/coveredbyyourgrace-webfont.woff (0ms)[debug] 16:11:06.271 Processed: source/font/fontawesome-webfont.eot (0ms)[debug] 16:11:06.271 Processed: source/font/fontawesome-webfont.svg (0ms)[debug] 16:11:06.271 Processed: source/font/fontawesome-webfont.ttf (0ms)[debug] 16:11:06.272 Processed: source/font/fontawesome-webfont.woff (1ms)[debug] 16:11:06.272 Processed: source/css/style.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_base/code.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_base/font.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_base/public.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_base/variable.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/article.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/aside.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/duoshuo.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/footer.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/gallery.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/header.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/helper.styl (0ms)[debug] 16:11:06.272 Processed: source/css/_partial/index.styl (0ms)[debug] 16:11:06.272 Processed: source/fancybox/blank.gif (0ms)[debug] 16:11:06.273 Processed: source/fancybox/fancybox_loading.gif (0ms)[debug] 16:11:06.273 Processed: source/fancybox/fancybox_loading@2x.gif (0ms)[debug] 16:11:06.273 Processed: source/fancybox/fancybox_overlay.png (0ms)[debug] 16:11:06.273 Processed: source/fancybox/fancybox_sprite.png (0ms)[debug] 16:11:06.273 Processed: source/fancybox/fancybox_sprite@2x.png (0ms)[debug] 16:11:06.273 Processed: source/fancybox/jquery.fancybox.css (0ms)[debug] 16:11:06.273 Processed: source/fancybox/jquery.fancybox.js (0ms)[debug] 16:11:06.273 Processed: source/fancybox/jquery.fancybox.pack.js (0ms)[debug] 16:11:06.274 Processed: source/fancybox/helpers/fancybox_buttons.png (0ms)[debug] 16:11:06.274 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css (0ms)[debug] 16:11:06.274 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js (0ms)[debug] 16:11:06.274 Processed: source/fancybox/helpers/jquery.fancybox-media.js (0ms)[debug] 16:11:06.274 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css (0ms)[debug] 16:11:06.274 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js (0ms)[debug] 16:11:06.278 Processed: layout/archive.ejs (12ms)[debug] 16:11:06.278 Processed: layout/category.ejs (12ms)[debug] 16:11:06.278 Processed: layout/index.ejs (12ms)[debug] 16:11:06.278 Processed: layout/page.ejs (12ms)[debug] 16:11:06.278 Processed: layout/post.ejs (11ms)[debug] 16:11:06.278 Processed: layout/layout.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_widget/links.ejs (11ms)[debug] 16:11:06.278 Processed: layout/tag.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_widget/category.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_widget/archive.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_widget/tag.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_widget/rss.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_widget/tagcloud.ejs (10ms)[debug] 16:11:06.278 Processed: layout/_partial/after_footer.ejs (11ms)[debug] 16:11:06.278 Processed: layout/_partial/archive.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/article.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/footer.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/categories.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/google_analytics.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/head.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/header.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/pagination.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/search.ejs (11ms)[debug] 16:11:06.279 Processed: layout/_partial/sidebar.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/tags.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/article.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/catetags.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/comment.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/footer.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/gallery.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/jiathis.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/header.ejs (10ms)[debug] 16:11:06.279 Processed: layout/_partial/post/pagination.ejs (9ms)[debug] 16:11:06.281 Theme config loaded[debug] 16:11:06.281 Processed: _config.yml (16ms)[debug] 16:11:06.281 Processed: languages/zh-CN.yml (15ms)[debug] 16:11:06.284 Processed: languages/zh-TW.yml (18ms)[error] 16:11:06.284 { name: 'HexoError',
+  reason: 'incomplete explicit mapping pair; a key node is missed',
+  mark: 
+   { name: null,
+     buffer: 'categories: Categories\nsearch: Search\ntags: Tags\ntagcloud: Tag Cloud\nprev: Prev\nnext: Next\ncomment: Comments\ncontents: Contents\narchive_a: Archives\narchive_b: Archives: %s\npage: Page %d\nrecent_posts: Recent Posts\nmenu: Menu\nlinks: Links\nrss: RSS\nshowsidebar: Show Sidebar\nhidesidebar: Hide Sidebar\nupdated: Updated\n\u0000',
+     position: 167,
+     line: 9,
+     column: 19 },
+  message: 'Process failed: languages/default.yml',
   domain: 
    { domain: null,
      _events: { error: [Function] },
      _maxListeners: 10,
-     members: [],
-     _disposed: true },
-  domainThrown: true }
-[debug] 22:55:05.068 Processed: _posts/nodejs-入门.md
-[debug] 22:55:05.068 Processed: _posts/一个完整的ranking-插件诞生记录-一.md
-[debug] 22:55:05.068 Processed: _posts/安装ruby-rails-for-mac-109.md
+     members: [ [Object] ] },
+  domainThrown: true,
+  stack: undefined }
