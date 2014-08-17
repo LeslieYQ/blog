@@ -1,4 +1,4 @@
-title: "'jquery的艺术2'"
+title: "jquery的艺术 (二)"
 date: 2014-07-28 23:51:42
 tags: jquery Source Code
 ---
