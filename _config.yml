@@ -7,7 +7,7 @@ title: LeslieYQ
 subtitle: 挣扎在互联网大海中的小鱼
 description: yuqiu's blog 于秋 LeslieYQ
 author: LeslieYQ yuqiu
-language: zh-cn
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: pacman
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
